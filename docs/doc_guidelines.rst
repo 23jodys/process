@@ -9,6 +9,12 @@ Line Length
 The line length of the raw rst formatted text should be 79 or less, but should not
 exceed 120 characters. Do whatever makes it the easiest to read in its raw form.
 
+****************************
+New Section for Verification
+****************************
+
+This section shows blah blah lbah
+
 
 ********
 Headings
